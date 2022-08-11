@@ -136,4 +136,5 @@ users  =[
 tag = ['red','blue','green']
 isRed = false;
 isBlue = false;
+currentProgess = 70;
 }
